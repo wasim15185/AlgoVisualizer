@@ -61,6 +61,7 @@ Algorithm visualizer is a react base web app where we can visualize and play wit
 
 <img align="left" height="32" width="32" src="https://brandeps.com/icon-download/N/Npm-icon-vector-07.svg" />
 
+<br>
 ## Highlights
 
 <!-- <video width="320" height="240" >
