@@ -155,7 +155,7 @@ Deployment Server :- <span> neltlify </span>
 <tbody>
 <tr>
 <td align='center'>
-<img height="130" width="140" src="./Github/Developer/Image/Wasim.jpg" />       <br/>
+<img height="130" width="140" src="./Github/Developer/Image/Dev_pro_pic.jpeg" />       <br/>
 <a href="https://github.com/wasim15185"> <Strong>Wasim Akram Biswas </Strong></a>
 </td>
 </tr>
