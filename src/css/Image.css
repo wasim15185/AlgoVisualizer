@@ -1,0 +1,46 @@
+@import "animate.css";
+
+.Image {
+	width: 35px;
+	height: 35px;
+	margin-left: 8px;
+	margin-right: 8px;
+	animation-name: shakeX;
+	animation-duration: 1s;
+}
+
+@keyframes shake {
+	0% {
+		-webkit-transform: scale(0) rotate(0deg);
+	}
+	10% {
+		-webkit-transform: scale(1.1) rotate(-1deg);
+	}
+	20% {
+		-webkit-transform: scale(1.25) rotate(-6deg);
+	}
+	30% {
+		-webkit-transform: scale(1.5) rotate(-12deg);
+	}
+	40% {
+		-webkit-transform: scale(1.75) rotate(-18deg);
+	}
+	50% {
+		-webkit-transform: scale(2) rotate(-24deg);
+	}
+	60% {
+		-webkit-transform: scale(1.75) rotate(18deg);
+	}
+	70% {
+		-webkit-transform: scale(1.5) rotate(12deg);
+	}
+	80% {
+		-webkit-transform: scale(1.25) rotate(6deg);
+	}
+	90% {
+		-webkit-transform: scale(1.1) rotate(1deg);
+	}
+	100% {
+		-webkit-transform: scale(0) rotate(0deg);
+	}
+}

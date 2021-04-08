@@ -1,0 +1,15 @@
+.navigation-area {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	width: 95%;
+	height: 50px;
+	margin-right: auto !important;
+	margin-left: auto !important;
+}
+
+.DijkstraButton-Container {
+	width: 15%;
+	display: flex;
+	justify-content: space-between;
+}

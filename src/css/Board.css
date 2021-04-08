@@ -1,0 +1,18 @@
+.Board-Container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	margin-top: 10px;
+}
+
+.Board {
+	width: 97.5%;
+	border: 2px solid rgb(185, 182, 182);
+}
+
+.Column {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}

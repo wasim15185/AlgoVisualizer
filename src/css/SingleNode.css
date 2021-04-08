@@ -1,0 +1,29 @@
+.SingleNode_Animation {
+	animation-name: square;
+	animation-duration: 1s;
+}
+
+@keyframes square {
+	0% {
+		transform: scale(0);
+	}
+	20% {
+		transform: scale(1.1);
+		box-shadow: -1px 0px 6px 0px rgba(50, 50, 50, 0.87);
+	}
+	50% {
+		transform: scale(1.2);
+		box-shadow: -1px 0px 6px 0px rgba(50, 50, 50, 0.89);
+	}
+	70% {
+		transform: scale(1.12);
+		box-shadow: -1px 0px 6px 0px rgba(50, 50, 50, 0.9);
+	}
+	90% {
+		transform: scale(1.1);
+		box-shadow: -1px 0px 6px 0px rgba(50, 50, 50, 0.93);
+	}
+	100% {
+		transform: scale(0);
+	}
+}
