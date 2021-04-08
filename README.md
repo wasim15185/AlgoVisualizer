@@ -43,23 +43,23 @@ Algorithm visualizer is a react base web app where we can visualize and play wit
 
 ### Technologies
 
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
-<img height="32" width="32" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" />
+<img align="left" height="32" width="32" src="https://brandeps.com/logo-download/N/Node-JS-logo-vector-01.svg" />
 
-<img height="32" width="32" src="https://brandeps.com/icon-download/J/Jss-icon-vector-01.svg" />
+<img align="left" height="32" width="32" src="https://brandeps.com/icon-download/J/Jss-icon-vector-01.svg" />
 
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 
-<img height="32" width="32" src="https://brandeps.com/logo-download/Y/Yarn-logo-vector-01.svg" />
+<img align="left" height="32" width="32" src="https://brandeps.com/logo-download/Y/Yarn-logo-vector-01.svg" />
 
-<img height="32" width="32" src="https://brandeps.com/icon-download/N/Npm-icon-vector-07.svg" />
+<img align="left" height="32" width="32" src="https://brandeps.com/icon-download/N/Npm-icon-vector-07.svg" />
 
 ## Highlights
 
@@ -120,7 +120,7 @@ Time Complexity is n^2 because here i used Two itarations .
    DFS is searching technique in a Graph . DFS means Depth first search. In this technique search will happen in depth of tree if seaching node is found then search is complete but id searching node is not found . it will backtrack .
 
 </p>
-  <img src='./Github/Images/DFS.png'>
+  <img src='./Github/Images/Dfs.png'>
 
 </div>
 
