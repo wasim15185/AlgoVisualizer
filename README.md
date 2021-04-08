@@ -65,10 +65,6 @@ Algorithm visualizer is a react base web app where we can visualize and play wit
 
 ## Highlights
 
-<!-- <video width="320" height="240" >
-  <source src="./Github/Video/Full-Tutorial.mp4" type="video/mp4">
-</video> -->
-
 <img style="margin-top: 20px;margin-bottom:20px" src="./Github/Gif/Gif-Full-Tutorial.gif"/>
 
 ## Words about this project
@@ -146,7 +142,7 @@ Time Complexity is n^2 because here i used Two itarations .
 
 ### PROJECT URL
 
-Deployment Server :- <span> neltlify </span>
+Deployment Server :- <span> netlify </span>
 
 <a href="">Click me to See </a>
 
