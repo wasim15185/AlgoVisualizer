@@ -103,8 +103,8 @@ Time Complexity is n^2 because here i used Two itarations .
 
 <h2 style="color: #323dfa; font-weight:500"> Singly Linked List </h2>
 <p>
-   Singly Linked List is a type of Data structure . Where it can used in store Data . In this List where every element has a Head and Tail . And every element pointing to tail . And it is a <Strong> One Dircetional </Strong> like <strong> Vector in Mathematices</strong>.
-   We can add or remove element from the front, the end or from anywhere in the list. <Strong style="color:red "> But in This project we can remove or add from last in list</Strong>
+   Singly Linked List is a type of Data structure . Where it can used in store Data . In this List where every element has a Head and Tail . And every element pointing to tail . And it is a <strong> One Dircetional </strong> like <strong> Vector in Mathematices</strong>.
+   We can add or remove element from the front, the end or from anywhere in the list. <strong style="color:red "> But in This project we can remove or add from last in list</strong>
 
 </p>
   <img src='./Github/Images/SinglyLinkedList.png'>
@@ -135,9 +135,9 @@ Time Complexity is n^2 because here i used Two itarations .
 
 <h3> Note : </h3>
 <ul>
-<li style="color: #fb005f; font-weight:500"> It is not mobile responsive </li>
-<li style="color: #fb005f; font-weight:500"> Please use Chrome browser (Recomanded) </li>
-<li style="color: #fb005f; font-weight:500"> If you have low end PC .Then before opening this web app close all tab (Recomanded)</li>
+<li style="color: #fb005f; font-weight:500"> <strong> It is not mobile responsive </strong></li>
+<li style="color: #fb005f; font-weight:500"><strong> Please use Chrome browser (Recomanded)</strong> </li>
+<li style="color: #fb005f; font-weight:500"><strong> If you have low end PC .Then before opening this web app close all tab (Recomanded) </strong></li>
 </ul>
 
 ### PROJECT URL
