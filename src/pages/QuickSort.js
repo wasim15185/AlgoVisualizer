@@ -76,7 +76,6 @@ const QuickSort = () => {
 		CanvasContainer,
 		Controller,
 		sliderContainer,
-
 		numberDisplay,
 		singleSliderContainer,
 	} = classes;
@@ -150,6 +149,14 @@ const QuickSort = () => {
 		}
 	};
 
+	// This is for typography style .
+	const typoGraphyStyle = {
+		fontWeight: "600",
+		letterSpacing: ".2em",
+		color: "#5ec523",
+		fontSize: "105%",
+	};
+
 	return (
 		<div>
 			<h2
@@ -216,11 +223,11 @@ const QuickSort = () => {
 				<div className={Controller}>
 					<div className={sliderContainer}>
 						<div className={singleSliderContainer}>
-							<Typography>Value :</Typography>
+							<Typography style={typoGraphyStyle}>Value</Typography>
 							<Slider disabled={disable} step={1} onChange={handleChange} />
 						</div>
 						<div className={singleSliderContainer}>
-							<Typography>Time :</Typography>
+							<Typography style={typoGraphyStyle}>Time</Typography>
 							<Slider
 								disabled={disable}
 								step={1}
