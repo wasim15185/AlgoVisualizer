@@ -36,14 +36,14 @@ const useStyles = makeStyles({
 		marginTop: "5px",
 	},
 	sliderContainer: {
-		width: "55vw",
+		minWidth: "750px",
 		display: "flex",
 		flexDirection: "row",
 		justifyContent: "space-around",
 		height: "87%",
 	},
 	singleSliderContainer: {
-		border: ".5px solid #ccc",
+		border: ".3px solid #ccc",
 		background: "#fff",
 		width: "40%",
 		padding: "10px",
