@@ -1,6 +1,6 @@
 <div align="center" style="height: 130px">
 
-<h1 align="center"> ALGO / VISUALIZER </h1>
+<h1 align="center"> <img src="./src/images/arrowImg.png"/> ALGO / VISUALIZER </h1>
 Algorithm visualizer is a react base web app where we can visualize and play with algorithm.
 
 </div>
