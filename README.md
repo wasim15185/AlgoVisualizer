@@ -1,7 +1,5 @@
 <div align="center" style="height: 130px">
 
-<img height="80" width="80" src="./src/images/logo.svg"/>
-
 <h1 align="center">  ALGO / VISUALIZER </h1>
 Algorithm visualizer is a react base web app where we can visualize and play with algorithm.
 
