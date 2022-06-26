@@ -146,7 +146,7 @@ Deployment Server :- <span> netlify </span>
 
 <a href="https://algo-visualizer-wasim.netlify.app">Click me to See </a>
 
-### DEVELOPER
+<!-- ### DEVELOPER
 
 <table>
 <tbody>
@@ -157,7 +157,7 @@ Deployment Server :- <span> netlify </span>
 </td>
 </tr>
 </tbody>
-</table>
+</table> -->
 
 ## MIT License
 
