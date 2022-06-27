@@ -1,6 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-
+/Github/Developer/Image/
 
 # dependencies
 /node_modules
@@ -29,4 +29,4 @@ yarn-error.log*
 /.netlify
 
 #developer photo
-/Github
+# /Github/Developer/Image/
